@@ -1,0 +1,39 @@
+body{
+    border: 95px solid;
+    border-color: rgba(239, 234, 240, 0.622);
+    /* background-image: url("bday.png"); */
+}
+
+
+h1{
+    background-color: rgb(32, 213, 83);
+    border: 20px solid;
+    
+    background-position: center;
+    
+    
+}
+#p2{
+    font-size:23px;
+}
+ p{
+    size: 25px;
+    border: 10px;
+}
+#p1{
+    background-color: rgb(11, 238, 11);
+    border: 10 px solid;
+    font-size: 22px;
+    
+}
+
+#button{
+    color: white;
+}
+#p2{
+    font-size: 26px;
+}
+#p9{
+    color:rgb(249, 249, 0);
+    font-size: 30px;
+}
